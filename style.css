@@ -45,9 +45,7 @@ padding: 65px 50px;}
 .section-3{background-color: #1e2024;
 padding: 0px;
 margin-top: 0px;
-display: flex;
-
-border: #3a17b9;border-style: dashed;}
+display: flex;}
 
 .latest{font-family: 'Poppins', sans-serif;
 color: #ffffff;
@@ -57,9 +55,7 @@ margin: 0px;
 display:flex;
 justify-content:space-between;
 width: 100%;
-flex: 1;
-
-border: #fafbfd; border-style: dashed;}
+flex: 1;}
 
 .latest>h1{font-size: 48px;}
 .latest>h2{font-size: 25px;
@@ -69,18 +65,13 @@ margin: 0px;}
 .lgbtq{
     padding-left: 90px;
 padding-top: 0px;
-margin: 0px;
-border: #fafbfd; border-style: dashed;
-}
+margin: 0px;}
 
 .rare-gaming{background-image:url(Rarexintogames\ .webp);
 background-size:cover;
 background-position: center;
 height: 600px;
-width: 950px;
-flex-grow: 1;
-
-border: #fafbfd; border-style: dashed;}
+width: 1000px;}
 
 .right-container{flex-grow: 1;}
 
@@ -90,9 +81,14 @@ border: #fafbfd; border-style: dashed;}
 font-size: 20px;
 margin: 0px;
 padding: 0px 90px;
-width: 30%;
+width: 30%;}
 
-border: #fafbfd; border-style: dashed;}
+.april{font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+font-size: 20px;
+margin: 0px;
+padding: 0px 0px;
+width: 30%;}
 
 .celebrate{font-family: 'Poppins', sans-serif;
 color: #ffffff;
@@ -100,18 +96,23 @@ font-size:36px;
 margin: 0px;
 padding-left: 90px;
 width: 80%;
+padding-bottom: 60px;}
 
- border: #fafbfd; border-style: dashed;}
+.games-2{font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    font-size:36px;
+    margin: 0px;
+    padding-left: 0px;
+    width: 80%;
+    padding-bottom: 60px;}
 
- .margin{width: 45%;}
+ .margin{width: 43%;}
 
 .photo-gallery{display: flex;
 flex-direction: row;
 flex-wrap: wrap;
 margin: 0px;
-padding-left: 90px;
-
-border: #2c46cf; border-style: dashed;}
+padding-left: 90px;}
 
 .photo-text{font-family: 'Poppins', sans-serif;
 color: #2c46cf;
@@ -119,8 +120,7 @@ font-size: 36px;
 margin: 0px;
 display: flex;
 justify-content: left;
-width: 50%;
-border: #0e0eec; border-style: dashed;}
+width: 50%;}
 
 .photo-1{flex: 1;
 width: 50%;
@@ -145,11 +145,13 @@ padding-top: 50px;}
 .photo-5{flex: 1;
     width: 50%;
 padding-top: 50px;
-padding-left: 2px;}
+padding-left: 2px;
+padding-bottom: 300px;}
 
 .photo-6{flex: 1;
     width: 50%;
-padding-top: 52px;}
+padding-top: 100px;
+padding-right: 200px;}
 
 .roles{font-family: 'Poppins', sans-serif;
 color: #ffffff;
@@ -170,6 +172,8 @@ margin: 0px;}
 .footer{background-color: #1e2024;
 padding-left: 90px;
 display: flex;
+flex-direction:row;
+
 
 border: #0e0eec; border-style: dashed;}
 
@@ -179,16 +183,22 @@ border: #0e0eec; border-style: dashed;}
 color: #ffffff;
 font-size: 20px;
 margin: 0px;
-   
+width: 300px;
+list-style: none;  
 border: #f2f2f4; border-style: dashed;}
 
 .follow{font-family: 'Poppins', sans-serif;
 color: #ffffff;
 font-size: 20px;
+width: 300px;
+list-style: none;
 
 border: #f9f9fb; border-style: dashed;}
 
-.pirate{border: #f9f9fb; border-style: dashed;}
+.pirate{padding-left: 700px;
+margin-top:-50px;
+border: #f9f9fb; border-style: dashed;
+}
 
 .logo-2{border: #f9f9fb; border-style: dashed;
 }
@@ -197,11 +207,14 @@ border: #f9f9fb; border-style: dashed;}
 color: #ffffff;
 border: #f9f9fb; border-style: dashed;}
 
-.text-2{margin: 0px;
-}
+.text-2{margin: 0px;}
 
-.xbox{border: #f9f9fb; border-style: dashed;
-}
+.footer-2{display: flex;
+flex-direction:column;}
+
+.xbox{
+padding-left: 750px;
+border: #f9f9fb; border-style: dashed;}
 
 
 
