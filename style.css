@@ -1,9 +1,215 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
-.nav-bar{display:flex;justify-content: space-between;}
-.rare-office{border: 1px black solid;
-height:50vw; 
-background-image: url("Rareoffice.webp");
-display:flex;align-items: center; padding-left: 50px;}
+
 body {margin: 0px;}
-.text-box{background-color: #2c46cfbf;width: 50%; padding: 30px 20px;
-font-family: 'Poppins', sans-serif;color: #ffffff; font-size: 48px;}
+
+.nav-bar{display:flex;justify-content: space-between; 
+font-family:'Poppins', sans-serif;}
+
+.rare-logo{padding: 25px 90px ;}
+
+.icons{font-family: 'Poppins', sans-serif;
+width: 25%;
+font-size: 16px;
+display:flex;
+justify-content:space-between;
+padding: 55px 85px;}
+
+.menu{padding: 0.30px;}
+
+.rare-office{height: 40vw; 
+background-image: url("Rareoffice.webp");
+background-size:cover;
+background-position: center;
+margin-left: 50px; 
+display:flex;align-items: center; padding-left: 50px;}
+
+.text-box{background-color: #2c46cfbf;width: 45%; 
+padding: 60px 50px;
+font-family: 'Poppins', sans-serif;
+color: #ffffff; 
+font-size: 48px; 
+line-height: 60px; 
+text-align:left;}
+
+.blue-letters{font-family: 'Poppins', sans-serif;
+font-size: 60px;
+color: #2c46cf;
+margin-left: 50px;
+width: 70%;
+line-height: 120px;
+text-align: left;
+padding: 65px 50px;}
+
+.blue-letters>h1{margin: 0px;}
+
+.section-3{background-color: #1e2024;
+padding: 0px;
+margin-top: 0px;
+display: flex;
+
+border: #3a17b9;border-style: dashed;}
+
+.latest{font-family: 'Poppins', sans-serif;
+color: #ffffff;
+padding:0px 90px;
+padding-top: 35px;
+margin: 0px;
+display:flex;
+justify-content:space-between;
+width: 100%;
+flex: 1;
+
+border: #fafbfd; border-style: dashed;}
+
+.latest>h1{font-size: 48px;}
+.latest>h2{font-size: 25px;
+padding-top: 55px;
+margin: 0px;}
+
+.lgbtq{
+    padding-left: 90px;
+padding-top: 0px;
+margin: 0px;
+border: #fafbfd; border-style: dashed;
+}
+
+.rare-gaming{background-image:url(Rarexintogames\ .webp);
+background-size:cover;
+background-position: center;
+height: 600px;
+width: 950px;
+flex-grow: 1;
+
+border: #fafbfd; border-style: dashed;}
+
+.right-container{flex-grow: 1;}
+
+
+.july{font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+font-size: 20px;
+margin: 0px;
+padding: 0px 90px;
+width: 30%;
+
+border: #fafbfd; border-style: dashed;}
+
+.celebrate{font-family: 'Poppins', sans-serif;
+color: #ffffff;
+font-size:36px;
+margin: 0px;
+padding-left: 90px;
+width: 80%;
+
+ border: #fafbfd; border-style: dashed;}
+
+ .margin{width: 45%;}
+
+.photo-gallery{display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+margin: 0px;
+padding-left: 90px;
+
+border: #2c46cf; border-style: dashed;}
+
+.photo-text{font-family: 'Poppins', sans-serif;
+color: #2c46cf;
+font-size: 36px;
+margin: 0px;
+display: flex;
+justify-content: left;
+width: 50%;
+border: #0e0eec; border-style: dashed;}
+
+.photo-1{flex: 1;
+width: 50%;
+padding-top: 220px;
+padding-right: 60px;}
+
+.photo-2{flex: 1;
+width: 50%;
+padding-top: 255px;
+}
+
+.photo-3{flex: 1;
+    width: 50%;
+padding-top: 50px;
+padding-left: 140px;}
+
+.photo-4{flex: 1;
+    width: 50%;
+padding-right: 165px;
+padding-top: 50px;}
+
+.photo-5{flex: 1;
+    width: 50%;
+padding-top: 50px;
+padding-left: 2px;}
+
+.photo-6{flex: 1;
+    width: 50%;
+padding-top: 52px;}
+
+.roles{font-family: 'Poppins', sans-serif;
+color: #ffffff;
+font-size: 20px;
+display: flex;
+justify-content: center;
+padding-top: 205px;
+padding-bottom: 102px;
+padding-left: 205;}
+
+.button{background-color: #2c46cf;
+width: 20%;
+display: flex;
+justify-content: center;
+padding:40px 5px ;
+margin: 0px;}
+
+.footer{background-color: #1e2024;
+padding-left: 90px;
+display: flex;
+
+border: #0e0eec; border-style: dashed;}
+
+
+
+.contact{font-family: 'Poppins', sans-serif;
+color: #ffffff;
+font-size: 20px;
+margin: 0px;
+   
+border: #f2f2f4; border-style: dashed;}
+
+.follow{font-family: 'Poppins', sans-serif;
+color: #ffffff;
+font-size: 20px;
+
+border: #f9f9fb; border-style: dashed;}
+
+.pirate{border: #f9f9fb; border-style: dashed;}
+
+.logo-2{border: #f9f9fb; border-style: dashed;
+}
+
+.text{font-family: 'Poppins', sans-serif;
+color: #ffffff;
+border: #f9f9fb; border-style: dashed;}
+
+.text-2{margin: 0px;
+}
+
+.xbox{border: #f9f9fb; border-style: dashed;
+}
+
+
+
+
+
+
+
+
+
+
+
