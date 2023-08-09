@@ -8,11 +8,11 @@ jettjagger.github.io/Rare-Website-Clone/
 
 Your challenge is to clone a website as closely as possible. Don't worry about how it functions, all I require is that it looks as identical as possible. 
 
-##Summary of project. I built this website clone as part of the CodeNation Software Developer bootcamp in 2023. 
+## Summary of project. I built this website clone as part of the CodeNation Software Developer bootcamp in 2023. 
 
-##Score: 83.33/100
+## Score: 83.33/100
 
-##Project Feedback:
+## Project Feedback:
 
 Great work, Jett.
 
